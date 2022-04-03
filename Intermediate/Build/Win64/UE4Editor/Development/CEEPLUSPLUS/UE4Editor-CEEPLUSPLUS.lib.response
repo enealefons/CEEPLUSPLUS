@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CEEPLUSPLUS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\eneal\Documents\Unreal Projects\CEEPLUSPLUS\Intermediate\Build\Win64\CEEPLUSPLUSEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\eneal\Documents\Unreal Projects\CEEPLUSPLUS\Intermediate\Build\Win64\UE4Editor\Development\CEEPLUSPLUS\CEEPLUSPLUS.cpp.obj"
+"C:\Users\eneal\Documents\Unreal Projects\CEEPLUSPLUS\Intermediate\Build\Win64\UE4Editor\Development\CEEPLUSPLUS\CEEPLUSPLUSCharacter.cpp.obj"
+"C:\Users\eneal\Documents\Unreal Projects\CEEPLUSPLUS\Intermediate\Build\Win64\UE4Editor\Development\CEEPLUSPLUS\CEEPLUSPLUSGameMode.cpp.obj"
+"C:\Users\eneal\Documents\Unreal Projects\CEEPLUSPLUS\Intermediate\Build\Win64\UE4Editor\Development\CEEPLUSPLUS\CEEPLUSPLUS.init.gen.cpp.obj"
+"C:\Users\eneal\Documents\Unreal Projects\CEEPLUSPLUS\Intermediate\Build\Win64\UE4Editor\Development\CEEPLUSPLUS\CEEPLUSPLUSCharacter.gen.cpp.obj"
+"C:\Users\eneal\Documents\Unreal Projects\CEEPLUSPLUS\Intermediate\Build\Win64\UE4Editor\Development\CEEPLUSPLUS\CEEPLUSPLUSGameMode.gen.cpp.obj"
+"C:\Users\eneal\Documents\Unreal Projects\CEEPLUSPLUS\Intermediate\Build\Win64\UE4Editor\Development\CEEPLUSPLUS\Default.rc2.res"
+/OUT:"C:\Users\eneal\Documents\Unreal Projects\CEEPLUSPLUS\Intermediate\Build\Win64\UE4Editor\Development\CEEPLUSPLUS\UE4Editor-CEEPLUSPLUS.lib"
+/INCLUDE:IMPLEMENT_MODULE_CEEPLUSPLUS

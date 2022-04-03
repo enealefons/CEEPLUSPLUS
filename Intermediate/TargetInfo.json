@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CEEPLUSPLUS",
+			"Path": "C:\\Users\\eneal\\Documents\\Unreal Projects\\CEEPLUSPLUS\\Source\\CEEPLUSPLUS.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CEEPLUSPLUSEditor",
+			"Path": "C:\\Users\\eneal\\Documents\\Unreal Projects\\CEEPLUSPLUS\\Source\\CEEPLUSPLUSEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

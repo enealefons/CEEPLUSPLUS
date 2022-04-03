@@ -1,0 +1,2 @@
+C:\Users\eneal\Documents\Unreal Projects\CEEPLUSPLUS\Intermediate\Build\Win64\UE4Editor\Development\CEEPLUSPLUS\Definitions.CEEPLUSPLUS.h
+C:\Users\eneal\Documents\Unreal Projects\CEEPLUSPLUS\Source\CEEPLUSPLUS\CEEPLUSPLUS.h

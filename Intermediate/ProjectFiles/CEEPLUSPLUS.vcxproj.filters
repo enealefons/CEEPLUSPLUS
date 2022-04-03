@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CEEPLUSPLUS.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1B28ECC2-9E53-4AA7-B105-A9A42022DEE6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CEEPLUSPLUS.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CEEPLUSPLUSEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4695E8FB-CE20-4594-AA35-022C5CFE39F4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CEEPLUSPLUS">
+      <UniqueIdentifier>{5F93958E-6AC0-48BE-9CA5-42B90B96B43E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CEEPLUSPLUS\CEEPLUSPLUS.Build.cs">
+      <Filter>Source\CEEPLUSPLUS</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CEEPLUSPLUS\CEEPLUSPLUS.cpp">
+      <Filter>Source\CEEPLUSPLUS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CEEPLUSPLUS\CEEPLUSPLUS.h">
+      <Filter>Source\CEEPLUSPLUS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CEEPLUSPLUS\CEEPLUSPLUSCharacter.cpp">
+      <Filter>Source\CEEPLUSPLUS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CEEPLUSPLUS\CEEPLUSPLUSCharacter.h">
+      <Filter>Source\CEEPLUSPLUS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CEEPLUSPLUS\CEEPLUSPLUSGameMode.cpp">
+      <Filter>Source\CEEPLUSPLUS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CEEPLUSPLUS\CEEPLUSPLUSGameMode.h">
+      <Filter>Source\CEEPLUSPLUS</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

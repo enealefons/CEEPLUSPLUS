@@ -120,7 +120,7 @@ void ACEEPLUSPLUSCharacter::MoveForward(float Value)
 
 		// get forward vector
 		const FVector Direction = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);
-		AddMovementInput(Direction, Value);
+		AddMovementInput(Direction, 10 * Value);
 	}
 }
 

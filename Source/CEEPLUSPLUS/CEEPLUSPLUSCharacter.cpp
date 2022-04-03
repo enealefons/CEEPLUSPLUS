@@ -95,7 +95,7 @@ void ACEEPLUSPLUSCharacter::TouchStarted(ETouchIndex::Type FingerIndex, FVector 
 
 void ACEEPLUSPLUSCharacter::TouchStopped(ETouchIndex::Type FingerIndex, FVector Location)
 {
-		StopJumping();
+	 //StopJumping();
 }
 
 void ACEEPLUSPLUSCharacter::TurnAtRate(float Rate)
